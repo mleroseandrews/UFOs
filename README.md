@@ -1,11 +1,11 @@
 # UFOs
-## Overview of Project
+### Overview of Project
 The main goal was to build a webpage for UFO data with a table using data stored in a JavaScript array.  The table can be filtered by date, city, state, county and or UFO shape.  The webpage was construced using Bootstrap for added visualizations.  
 
 ### Results
 There are 5 possible filters which can be used individually or in combination to further refine the results. The user will enter in the search criteria in the dialog box under each search criteria and press filter button. This will apply the filter and display the new results matching the search criteria defined. 
 
-#### Summary
+### Summary
 - One drawback of the webpage is that the data being input by the user is case sensitive . The user must enter in the filter criteria as formatted in the table. Another drawback is that the filters only allow for one input at a time. So users cannot filter a date range or filter for two shapes or two cities at the same time.
 
 - Two additional recommendations for further development:
